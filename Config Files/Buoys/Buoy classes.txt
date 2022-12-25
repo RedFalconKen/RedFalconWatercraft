@@ -1,0 +1,7 @@
+Buoy classes:
+
+RFWC_Classic_Buoy
+RFWC_Buoy_Port (green)
+RFWC_Buoy_Starboard (red)
+
+They must be placed via DayZ Editor/VPPAdmin/etc. Once placed they will automatically float at the level of the water.
