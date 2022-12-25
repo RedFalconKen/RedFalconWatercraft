@@ -1,0 +1,36 @@
+{
+    "VehiclesParts": [
+       {
+            "VehicleName": "RFWC_Whaler",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+       },
+       {
+            "VehicleName": "RFWC_CarpBoat",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Zodiac_Orange",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Zodiac_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        }	
+    ]
+}

@@ -1,0 +1,15 @@
+<VehicleParts>RFWC_Whaler
+        SparkPlug
+        TruckBattery
+
+<VehicleParts>RFWC_CarpBoat
+        SparkPlug
+        TruckBattery
+		
+<VehicleParts>RFWC_Zodiac_Orange
+        SparkPlug
+        TruckBattery		
+		
+<VehicleParts>RFWC_Zodiac_Black
+        SparkPlug
+        TruckBattery				

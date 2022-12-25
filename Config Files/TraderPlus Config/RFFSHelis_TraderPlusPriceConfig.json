@@ -1,0 +1,19 @@
+       {
+            "CategoryName": "Boatz",
+            "Products": [
+                "RFWC_Whaler,1,-1,1,900000,450000,0.5",
+                "RFWC_CarpBoat,1,-1,1,900000,450000,0.5",
+                "RFWC_Zodiac_Orange,1,-1,1,900000,450000,0.5",
+                "RFWC_Zodiac_Black,1,-1,1,1200000,600000,0.5"
+            ]
+        },
+        {
+            "CategoryName": "Helicopter Parts",
+            "Products": [
+                "EngineOil,1,-1,1,1200,600,0.5",
+                "SparkPlug,1,-1,1,1200,600,0.5",
+                "TruckBattery,1,-1,1,1200,600,0.5"
+
+            ]
+        },
+			

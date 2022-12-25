@@ -1,0 +1,12 @@
+<Trader> RF Watercraft                            
+    <Category> Boatz
+        RFWC_Whaler,            VNK,    0,        -1
+        RFWC_CarpBoat,            VNK,    0,        -1
+        RFWC_Zodiac_Black,        VNK,    0,        -1
+        RFWC_Zodiac_Orange,    VNK,    0,        -1
+
+    <Category> Boat Parts
+        EngineOil,    *,    0,        -1
+        SparkPlug,    *,    0,        -1
+        TruckBattery,    *,    0,        -1
+
