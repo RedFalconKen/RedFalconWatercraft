@@ -1,0 +1,1 @@
+class RFWC_CarpBoat_YourTextureName_Wreck extends RFWC_Wreck_Base{}

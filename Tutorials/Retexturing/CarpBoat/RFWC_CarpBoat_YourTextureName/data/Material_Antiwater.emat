@@ -1,0 +1,17 @@
+MatWaterPool {
+ Color 0 0 0 0
+ ZWrite 0
+ OceanScatteringColor 0 0 0 0
+ NormalPower 0.01
+ NormalMapping 0.005
+ SunPower 2
+ SunInfluence 0
+ SunNormalMul 0.01
+ WaterExtinction 100
+ RefractScale 0.4
+ ChromAberation 0.15
+ WindInfl 0
+ WetFloor 2
+ ReflectionColor 0 0 0 0
+ StreamTransform 0
+}
