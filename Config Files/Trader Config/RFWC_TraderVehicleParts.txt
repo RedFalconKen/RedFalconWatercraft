@@ -12,4 +12,12 @@
 		
 <VehicleParts>RFWC_Zodiac_Black
         SparkPlug
-        TruckBattery				
+        TruckBattery		
+		
+<VehicleParts>RFWC_DragBoat_Black
+        SparkPlug
+        TruckBattery		
+		
+<VehicleParts>RFWC_DragBoat_Red
+        SparkPlug
+        TruckBattery		

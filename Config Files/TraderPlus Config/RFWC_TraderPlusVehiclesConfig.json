@@ -31,6 +31,22 @@
                 "TruckBattery",
                 "SparkPlug"
             ]
-        }	
+        },
+       {
+            "VehicleName": "RFWC_DragBoat_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        }	,
+       {
+            "VehicleName": "RFWC_DragBoat_REd",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        }
     ]
 }
