@@ -12,7 +12,7 @@
         {
             "CategoryName": "Boat Parts",
             "Products": [
-                "EngineOil,1,-1,1,1200,600,0.5",
+                "EngineOil,1,-1,1000,1200,600,0.5",
                 "SparkPlug,1,-1,1,1200,600,0.5",
                 "TruckBattery,1,-1,1,1200,600,0.5"
 
