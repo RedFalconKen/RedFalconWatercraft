@@ -21,3 +21,15 @@
 <VehicleParts>RFWC_DragBoat_Red
         SparkPlug
         TruckBattery		
+		
+<VehicleParts>RFWC_Seadoo_Camo
+        SparkPlug
+        TruckBattery		
+		
+<VehicleParts>RFWC_Seadoo_Orange
+        SparkPlug
+        TruckBattery		
+		
+<VehicleParts>RFWC_Seadoo_Green
+        SparkPlug
+        TruckBattery	

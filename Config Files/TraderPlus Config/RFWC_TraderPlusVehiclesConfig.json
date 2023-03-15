@@ -41,7 +41,31 @@
             ]
         }	,
        {
-            "VehicleName": "RFWC_DragBoat_REd",
+            "VehicleName": "RFWC_DragBoat_Red",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Camo",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Orange",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
+            "VehicleName": "RFWC_Seadoo_Green",
             "Height": 0,
             "VehicleParts": [
                 "TruckBattery",

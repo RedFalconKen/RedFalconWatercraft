@@ -89,6 +89,48 @@
                 "SparkPlug"
             ],
             "Variants": []
+        },        
+		{
+            "ClassName": "RFWC_Seadoo_Camo",
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 2000000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TruckBattery",
+                "SparkPlug"
+            ],
+            "Variants": []
+        },        
+		{
+            "ClassName": "RFWC_Seadoo_Orange",
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 2000000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TruckBattery",
+                "SparkPlug"
+            ],
+            "Variants": []
+        },        
+		{
+            "ClassName": "RFWC_Seadoo_Green",
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 2000000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TruckBattery",
+                "SparkPlug"
+            ],
+            "Variants": []
         }
 	
 	]

@@ -6,6 +6,9 @@
         RFWC_Zodiac_Orange,    VNK,    0,        -1
         RFWC_DragBoat_Black,    VNK,    0,        -1
         RFWC_DragBoat_Red,    VNK,    0,        -1
+        RFWC_Seadoo_Camo,    VNK,    0,        -1
+        RFWC_Seadoo_Orange,    VNK,    0,        -1
+        RFWC_Seadoo_Green,    VNK,    0,        -1
 
     <Category> Boat Parts
         EngineOil,    *,    0,        -1
