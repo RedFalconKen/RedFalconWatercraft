@@ -3,6 +3,7 @@
             "Products": [
                 "RFWC_Whaler,1,-1,1,900000,450000,0.5",
                 "RFWC_CarpBoat,1,-1,1,900000,450000,0.5",
+                "RFWC_CarpBoat_Rusty,1,-1,1,900000,450000,0.5",
                 "RFWC_Zodiac_Orange,1,-1,1,900000,450000,0.5",
                 "RFWC_Zodiac_Black,1,-1,1,1200000,600000,0.5",
                 "RFWC_DragBoat_Black,1,-1,1,1200000,600000,0.5",

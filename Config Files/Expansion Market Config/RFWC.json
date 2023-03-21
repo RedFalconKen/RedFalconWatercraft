@@ -33,6 +33,20 @@
                 "SparkPlug"
             ],
             "Variants": []
+        },         
+		{
+            "ClassName": "RFWC_CarpBoat_Rusty",
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 2000000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"TruckBattery",
+                "SparkPlug"
+            ],
+            "Variants": []
         },        
 		{
             "ClassName": "RFWC_Zodiac_Orange",

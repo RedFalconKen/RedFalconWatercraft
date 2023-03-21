@@ -2,6 +2,7 @@
     <Category> Boatz
         RFWC_Whaler,            VNK,    0,        -1
         RFWC_CarpBoat,            VNK,    0,        -1
+        RFWC_CarpBoat_Rusty,            VNK,    0,        -1
         RFWC_Zodiac_Black,        VNK,    0,        -1
         RFWC_Zodiac_Orange,    VNK,    0,        -1
         RFWC_DragBoat_Black,    VNK,    0,        -1

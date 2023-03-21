@@ -5,6 +5,10 @@
 <VehicleParts>RFWC_CarpBoat
         SparkPlug
         TruckBattery
+
+<VehicleParts>RFWC_CarpBoat_Rusty
+        SparkPlug
+        TruckBattery
 		
 <VehicleParts>RFWC_Zodiac_Orange
         SparkPlug

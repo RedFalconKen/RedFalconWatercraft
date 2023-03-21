@@ -17,6 +17,14 @@
             ]
         },
        {
+            "VehicleName": "RFWC_CarpBoat_Rusty",
+            "Height": 0,
+            "VehicleParts": [
+                "TruckBattery",
+                "SparkPlug"
+            ]
+        },
+       {
             "VehicleName": "RFWC_Zodiac_Orange",
             "Height": 0,
             "VehicleParts": [
