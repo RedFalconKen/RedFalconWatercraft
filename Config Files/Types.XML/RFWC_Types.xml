@@ -71,7 +71,7 @@
     </type>
     <type name="RFWC_Zodiac_Black_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -111,7 +111,7 @@
     </type>
     <type name="RFWC_DragBoat_Red_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -131,7 +131,7 @@
     </type>
     <type name="RFWC_DragBoat_Black_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -171,7 +171,7 @@
     </type>
     <type name="RFWC_Seadoo_Camo_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -181,7 +181,7 @@
     </type>
     <type name="RFWC_Seadoo_Orange_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -191,7 +191,7 @@
     </type>
     <type name="RFWC_Seadoo_Green_Wreck">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
