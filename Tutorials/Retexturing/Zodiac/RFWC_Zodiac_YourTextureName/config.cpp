@@ -10,7 +10,7 @@ class CfgPatches
 			"DZ_Vehicles_Wheeled",
 			"DZ_Vehicles_Parts",
 			"RFWC_Core_mod",
-			"RFWC_Zodiac"
+			"RFWC_Zodiac_mod"
 		};
 	};
 };
