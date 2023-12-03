@@ -1,0 +1,2 @@
+class RFWC_DragBoat_YourRetextureName_Wreck extends RFWC_DragBoat_base_Wreck {}
+

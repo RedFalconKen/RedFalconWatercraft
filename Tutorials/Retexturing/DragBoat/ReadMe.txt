@@ -1,0 +1,1 @@
+There are no P3D files for the textures provided as they are quite simple. Look at the .paa files in the /data folder and edit those with your new colors and graphics.
