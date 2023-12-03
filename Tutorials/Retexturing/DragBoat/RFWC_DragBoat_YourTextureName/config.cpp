@@ -73,13 +73,13 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_hull_back_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_hull_top_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_hull_right_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_hull_left_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_hull_paint_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_seat_lite_YourRetextureName_ca.paa",
-			"RFWC_DragBoat_YourRetextureName\data\blue\drag_seat_dark_YourRetextureName_ca.paa"
+			"RFWC_DragBoat_YourRetextureName\data\drag_hull_back_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_hull_top_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_hull_right_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_hull_left_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_hull_paint_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_seat_lite_YourRetextureName_ca.paa",
+			"RFWC_DragBoat_YourRetextureName\data\drag_seat_dark_YourRetextureName_ca.paa"
 		};
 	};
 
